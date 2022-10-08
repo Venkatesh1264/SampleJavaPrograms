@@ -1,3 +1,5 @@
+package com.example.logic;
+
 public class ArmstrongNumber {
     // ArmstongNumber => The mth digitnumber which is equals to the sum of mth power of each digits
     // 153 => 1*1*1 + 5*5*5 + 3*3*3 = 1 + 125 + 27 = 153
